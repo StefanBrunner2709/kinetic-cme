@@ -1,5 +1,6 @@
 title: kinetic-cme
 description: A description to the kinetic-cme code!
+markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 
 plugins:
