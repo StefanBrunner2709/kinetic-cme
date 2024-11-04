@@ -6,3 +6,9 @@ plugins:
   - jekyll-include-cache
 
 minimal_mistakes_skin: "dark"
+
+footer:
+  links:
+    - label: "GitLab"
+      icon: "fab fa-fw fa-square-gitlab"
+      url: "https://git.uibk.ac.at/c7021158/kinetic-cme/-/tree/main?ref_type=heads"
