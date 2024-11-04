@@ -31,3 +31,6 @@ defaults:
       layout: single
 
 enable_copy_code_button: true
+
+lunr:
+  search_within_pages: true
