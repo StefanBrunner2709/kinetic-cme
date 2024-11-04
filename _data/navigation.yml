@@ -3,3 +3,5 @@ main:
     url: /about/
   - title: "Python interface"
     url: /interface/
+  - title: "Publications"
+    url: /publications/
