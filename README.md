@@ -1,5 +1,3 @@
-# kinetic-cme
-
 This website provides a brief description of the kinetic-cme code and explains the Python interface.
 Installation can be done through GitLab or by the following link:
 
