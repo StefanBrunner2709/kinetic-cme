@@ -2,8 +2,8 @@
 layout: splash
 permalink: /
 hidden: true
-# header:
-  # overlay_color: "#5e616c"
+header:
+  overlay_color: "#5e616c"
   # overlay_image: /assets/images/mm-home-page-feature.jpg
 excerpt: >
   A software for solving the Chemical Master equation. Especially helpful for problems, where classical ODEs don't suffice.
@@ -34,14 +34,16 @@ feature_row:
 {% include feature_row %}
 
 
-## kinetic-cme
-
-A software for solving the Chemical Master equation. Especially helpful for problems, where classical ODEs don't suffice.
+## Installation
 
 Installation can be done through GitLab or by pip install:
 
-## Insert link here
+```python
+pip install kinetic-cme
+```
 
-## Insert images with brief description and links to code explanation, python interface explanation and one example
+## Examples
+
+The following videos show some examples resulting from the kinetic-cme code.
 
 {% include video id="rRkVJkrTZpg" provider="youtube" %}
