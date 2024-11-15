@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /cme/
+title: "CME"
 ---
 
 `kinetic-cme` solves the chemical master equation (CME),

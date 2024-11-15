@@ -1,10 +1,10 @@
 main:
-  - title: "About"
+  - title: "CME"
     description: "About the chemical master equation"
-    url: /about/
-  - title: "Python interface"
+    url: /cme/
+  - title: "Tutorial"
     description: "Short python interface guide"
-    url: /interface/
+    url: /tutorial/
   - title: "Publications"
     description: "Publications related to kinetic-cme"
     url: /publications/

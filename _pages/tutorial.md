@@ -1,6 +1,6 @@
 ---
-permalink: /interface/
-title: "Python interface"
+permalink: /tutorial/
+title: "Tutorial"
 ---
 
 Here we will describe different ways on how to use generator_class to generate models, set up our tree with initial conditions and run the kinetic-cme code.
