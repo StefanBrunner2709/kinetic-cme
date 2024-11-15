@@ -11,14 +11,14 @@ feature_row:
   - # image_path: /assets/images/mm-customizable-feature.png
     alt: "cme"
     title: "Chemical Master equation"
-    excerpt: "A brief description for the Chemical Master equation"
+    excerpt: "A brief description for the Chemical Master equation."
     url: "/cme/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - # image_path: /assets/images/mm-responsive-feature.png
     alt: "tutorial"
     title: "Tutorial"
-    excerpt: "A guide for the usage of the python interface"
+    excerpt: "A guide for the usage of the python interface."
     url: "/tutorial/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
@@ -44,6 +44,6 @@ pip install kinetic-cme
 
 ## Examples
 
-The following videos show some examples resulting from the kinetic-cme code.
+The following video shows an example resulting from the kinetic-cme code:
 
-{% include video id="rRkVJkrTZpg" provider="youtube" %}
+{% include video id="Qk8JEcdUFu4" provider="youtube" %}
